@@ -25,6 +25,7 @@ A modern and responsive calculator application built with **HTML, CSS, and JavaS
 - CSS3
 - JavaScript (ES6)
 
+- 🧮 Calculator Demo: https://edldev12.github.io/CodeAlpha_Calculator/
 ---
 
 ## 🌐 CodeAlpha Portfolio
@@ -44,7 +45,7 @@ A personal portfolio website to showcase my **skills, projects, certificates, an
 - HTML5
 - CSS3
 - JavaScript
-
+- 🌐 Portfolio Demo: https://edldev12.github.io/CodeAlpha_Portfolio/
 ---
 
 ## 📁 Repository Structure
