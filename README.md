@@ -63,3 +63,25 @@ CodeAlpha_tasks/
     ├── style.css
     ├── script.js
     └── image/
+🎯 Skills Improved
+Responsive web design
+JavaScript DOM manipulation
+User interface development
+Git and GitHub workflow
+Building interactive web applications
+🚀 How to Run
+
+Clone the repository:
+
+git clone https://github.com/Edldev12/CodeAlpha_tasks.git
+
+Open any project's index.html file in your browser.
+
+👨‍💻 Author
+
+Edlawit Tsegaye
+Software Engineering Student
+
+GitHub: https://github.com/Edldev12
+
+⭐ Feel free to explore and give feedback!
