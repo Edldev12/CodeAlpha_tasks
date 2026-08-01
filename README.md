@@ -63,6 +63,8 @@ CodeAlpha_tasks/
     ├── style.css
     ├── script.js
     └── image/
+```text
+
 🎯 Skills Improved
 Responsive web design
 JavaScript DOM manipulation
